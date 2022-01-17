@@ -58,8 +58,15 @@ Here are some ideas to get you started:
 <h1>Videos I've made</h1>
 
 <ul>
-	<li><p><a href="https://www.youtube.com/watch?v=2twRySBDM1k&" target="blank">The bomb defuser</a> The separatist group FLQ began planting bombs around Montreal in 1963, forcing the police to quickly organize a bomb squad.  Robert Côté was one of the founding members.
-  — CBC Podcasts</p></li>
+	<li><p><a href="https://www.cbc.ca/player/play/1684357699927/" target="blank">Walking with Kaie Kellough in Montreal</a>Take a walk through Kaie Kellough's Montreal of poetry, seditious cafes and immigrant vitality
+  — CBC Arts</p></li>
+	
+	
+		<li><p><a href="https://www.youtube.com/watch?v=2twRySBDM1k&" target="blank">The bomb defuser</a> The separatist group FLQ began planting bombs around Montreal in 1963, forcing the police to quickly organize a bomb squad.  Robert Côté was one of the founding members.
+  — CBC Arts</p></li>
+	
+		<li><p><a href="https://www.cbc.ca/player/play/1872813123989/" target="blank">It's Saturday night in Montreal and food-delivery drivers rule the roads</a> After the 8 p.m. curfew sets in, foodies get their fixes with the help of people like Marie Beaulieu
+  — CBC News</p></li>
 	
 	
 	
@@ -95,11 +102,20 @@ Here are some ideas to get you started:
 
 <h1>Articles</h1>
 <ul>
+	
 
-<li><p><a href="https://www.cbc.ca/news/canada/montreal/montreal-gaming-house-1.5129790">Go inside the Montreal house where gamers play, practise and live</a> — CBC News</p></li>
+	<li><p><a href="https://www.cbc.ca/news/canada/montreal/canada-prison-conditions-covid-19-human-rights-1.5545303" target="blank">Canada's prison watchdog calls out federal corrections for 'extreme' confinement as COVID-19 cases surge</a> — CBC News</p></li>
+	
+	
+	<li><p><a href="https://www.cbc.ca/news/canada/montreal/quebec-jail-quarantine-controversy-covid-1.6088287" target="blank">Quebec COVID restrictions are loosening, but jails are still putting inmates in solitary to quarantine</a> — CBC News</p></li>
 
+		<li><p><a href="https://www.cbc.ca/news/canada/montreal/inside-ww2-internment-camp-montreal-1.5414940" target="blank">New tour of Montreal's Stewart Museum highlights its use as a WW2 internment camp</a> — CBC News</p></li>
+	
 
-<li><p><a href="http://www.cbc.ca/news/a-former-toilet-paper-factory-that-1-574-refugees-call-home-1.3869907" target="blank">Telcos demand hefty fees for personal data that should be free, says Citizen Lab report</a> — Spark, CBC Radio</p></li>
+<li><p><a href="https://www.cbc.ca/news/canada/montreal/quebec-jail-quarantine-controversy-covid-1.6088287" target="blank">Quebec COVID restrictions are loosening, but jails are still putting inmates in solitary to quarantine</a> — CBC News</p></li>
+	
+	<li><p><a href="https://www.cbc.ca/news/canada/montreal/montreal-gaming-house-1.5129790">Go inside the Montreal house where gamers play, practise and live</a> — CBC News</p></li>
+
 
 <li><p><a href="https://www.cbc.ca/news/canada/montreal/how-montreal-takes-300-000-truckloads-of-snow-off-the-street-every-winter-1.5023619">How Montreal takes 300,000 truckloads of snow off the street every winter</a> — CBC News</p></li>
 
@@ -112,25 +128,10 @@ Here are some ideas to get you started:
 
 
 
-<li><p><a href="https://www.cbc.ca/radio/asithappens/scream-choir-record-shattering-opera-and-the-most-annoying-car-alarm-the-best-sounds-of-2017-1.4458349" target="blank">Scream choir, record-shattering opera and the most annoying car alarm: The best sounds of 2017</a> — As It Happens, CBC Radio</p></li>
-
-
-
-<li><p><a href="https://www.cbc.ca/news/canada/montreal/police-watchdog-report-on-anautak-shooting-won-t-be-made-public-1.4759659">BEI report on fatal police shooting of Illutak Anautak won't be made public</a> — CBC News</p></li>
-
-
-
-
 <li><p><a href="www.cbc.ca/radio/day6/here-s-a-list-of-well-known-men-in-canada-called-out-for-alleged-sexual-misconduct-since-weinstein-1.4428132" target="blank">Here's a list of well-known men in Canada called out for alleged sexual misconduct since Weinstein</a> — Day 6, CBC Radio</p></li>
 
 
-
-
 <li><p><a href="http://www.cbc.ca/radio/day6/episode-327-kellie-leitch-goes-viral-milo-yiannopoulos-takedown-saving-coral-reefs-and-more-1.4004459/what-s-going-on-underneath-realdonaldtrump-s-tweets-a-small-investigation-1.4004768" target="blank">What's going on underneath @RealDonaldTrump's tweets? A small investigation</a> — Day 6, CBC Radio</p></li>
-
-
-
-<li><p><a href="https://www.cbc.ca/news/canada/montreal/can-you-identify-these-montreal-intersections-from-historic-aerial-photographs-1.4770386" target="blank">Can you identify these Montreal intersections from historic aerial photographs?</a> — CBC News</p></li>
 
 
 <li><p><a href="https://www.thestar.com/business/tech_news/2015/01/28/toronto-made-computer-program-exposes-whos-tracking-you.html">Toronto-made computer program exposes who’s tracking you</a> — The Toronto Star</p></li>

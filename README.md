@@ -17,13 +17,9 @@ Here are some ideas to get you started:
 
 
 	
-	<h1>Welcome</h1>
-	
+<p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
 
-<p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p><
-
-<h2>Some audio work</h2>
-
+<h1>Some audio work</h1>
 
 		<li><p><a href="http://www.cbc.ca/radio/spark/episode-401-1.4694935/as-google-for-education-tools-enter-classrooms-across-canada-some-parents-are-asking-to-opt-out-1.4694939" target="blank">  As Google for Education tools enter classrooms across Canada, some parents are asking to opt-out.</a> A special one hour episode of Spark about Google in Canada's education system, I co-produced and reported for Spark.</p></li>
 
@@ -49,7 +45,7 @@ Here are some ideas to get you started:
 
 
 
-<h2>Videos I've made</h2>
+<h1>Videos I've made</h1>
 
 <ul>
 
@@ -143,10 +139,10 @@ Here are some ideas to get you started:
 </ul>
 
 
-<h2>Where else to find me</h2>
+<h1>Where else to find me</h1>
 <ul>
 	<li><p>
 	<a href="http://www.twitter.com/craigdesson" target="blank">Twitter</a></p></li>
 
 </ul>
-</body>
+

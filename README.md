@@ -58,7 +58,7 @@ Here are some ideas to get you started:
 <h1>Videos I've made</h1>
 
 <ul>
-	<li><p><a href="https://www.cbc.ca/player/play/1684357699927/" target="blank">Walking with Kaie Kellough in Montreal</a>Take a walk through Kaie Kellough's Montreal of poetry, seditious cafes and immigrant vitality
+	<li><p><a href="https://www.cbc.ca/player/play/1684357699927/" target="blank">Walking with Kaie Kellough in Montreal</a> Take a walk through Kaie Kellough's Montreal of poetry, seditious cafes and immigrant vitality
   — CBC Arts</p></li>
 	
 	

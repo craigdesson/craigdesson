@@ -35,8 +35,6 @@ Here are some ideas to get you started:
 <li><p><a href="http://www.cbc.ca/radio/docproject/from-syria-to-life-at-the-hotel-limbo-1.3584664" target="blank">Hotel Limbo </a> Documentary for The Doc Project about The Toronto Plaza Hotel, which was home to more then 1,000 Syrian refugees. </p></li>
 
 
-
-
 <li><p><a href="https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-september-22-2019-1.5291065/the-man-who-brings-astronomy-to-downtown-montreal-1.5291212" target="blank">The man who brings astronomy to downtown Montreal </a> Documentary for The Sunday Edition about a Montrealer who is bringing astronomy to the street.</p></li>
 
 
@@ -60,9 +58,11 @@ Here are some ideas to get you started:
 <h1>Videos I've made</h1>
 
 <ul>
-
-
-
+	<li><p><a href="https://www.youtube.com/watch?v=2twRySBDM1k&" target="blank">The bomb defuser</a> The separatist group FLQ began planting bombs around Montreal in 1963, forcing the police to quickly organize a bomb squad.  Robert Côté was one of the founding members.
+  — CBC Podcasts</p></li>
+	
+	
+	
 	<li><p><a href="https://www.facebook.com/radiocbc/videos/10156361907136913/" target="blank">The ice carver</a> Immigrants often find it tough to land work in their field. But Ross Baisas makes it look easy. He's a wood carver in the Philippines and is now an award winning ice carver at the Montreal Casino.  — CBC News</p></li>
 
 

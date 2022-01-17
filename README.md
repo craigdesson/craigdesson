@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
 
 
-<h2>Some audio work</h2>
+Some audio work
 
 	
 
@@ -50,7 +50,7 @@ Here are some ideas to get you started:
 
 
 
-<h1>Videos I've made</h1>
+Videos I've made
 
 <ul>
 
@@ -86,7 +86,7 @@ Here are some ideas to get you started:
 
 </ul>
 
-<h2>Reporting</h2>
+Reporting
 <ul>
 
 <li><p><a href="https://www.cbc.ca/news/canada/montreal/montreal-gaming-house-1.5129790">Go inside the Montreal house where gamers play, practise and live</a> — CBC News</p></li>

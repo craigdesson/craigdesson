@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **craigdesson/craigdesson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -19,11 +17,18 @@ Here are some ideas to get you started:
 	
 <p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
 
-<h1>Some audio work</h1>
 
-		<li><p><a href="http://www.cbc.ca/radio/spark/episode-401-1.4694935/as-google-for-education-tools-enter-classrooms-across-canada-some-parents-are-asking-to-opt-out-1.4694939" target="blank">  As Google for Education tools enter classrooms across Canada, some parents are asking to opt-out.</a> A special one hour episode of Spark about Google in Canada's education system, I co-produced and reported for Spark.</p></li>
+<h2>Some audio work</h2>
+
+	
+
+<li><p><a href="http://www.cbc.ca/radio/spark/episode-401-1.4694935/as-google-for-education-tools-enter-classrooms-across-canada-some-parents-are-asking-to-opt-out-1.4694939" target="blank"> As Google for Education tools enter classrooms across Canada, some parents are asking to opt-out </a> A special one hour episode of Spark about Google in Canada's education system, I co-produced and reported for Spark. </p></li>
+
 
 <li><p><a href="http://www.cbc.ca/radio/docproject/from-syria-to-life-at-the-hotel-limbo-1.3584664" target="blank">Hotel Limbo </a> Documentary for The Doc Project about The Toronto Plaza Hotel, which was home to more then 1,000 Syrian refugees. </p></li>
+
+
+
 
 <li><p><a href="https://www.cbc.ca/radio/thesundayedition/the-sunday-edition-for-september-22-2019-1.5291065/the-man-who-brings-astronomy-to-downtown-montreal-1.5291212" target="blank">The man who brings astronomy to downtown Montreal </a> Documentary for The Sunday Edition about a Montrealer who is bringing astronomy to the street.</p></li>
 

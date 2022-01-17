@@ -15,12 +15,19 @@ Here are some ideas to get you started:
 
 
 	
-<p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
+<p>My name is Craig Desson. I'm a producer, documentary maker and journalist at CBC.</p> 
+	
+<p>I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
 
 
 <h1>Some audio work</h1>
 
-	
+<ul>
+
+
+<li><p><a href="https://www.cbc.ca/radio/docproject/did-i-buy-a-condo-on-stolen-land-how-purchasing-my-first-home-made-me-question-property-rights-1.6007196" target="blank"> Whose Condo Is It, Anyway?</a> Did I buy a condo on stolen land? How purchasing my first home made me question property rights, Doc Project</p></li>
+
+
 
 <li><p><a href="http://www.cbc.ca/radio/spark/episode-401-1.4694935/as-google-for-education-tools-enter-classrooms-across-canada-some-parents-are-asking-to-opt-out-1.4694939" target="blank"> As Google for Education tools enter classrooms across Canada, some parents are asking to opt-out </a> A special one hour episode of Spark about Google in Canada's education system, I co-produced and reported for Spark. </p></li>
 
@@ -47,7 +54,7 @@ Here are some ideas to get you started:
 <li><p><a href="http://thirdcoastfestival.org/explore/feature/dear-face-at-deer-lake-with-deer-people" target="blank">Dear Face at Deer Lake with Deer People</a> — Winner of best short doc at Third Coast.</p></li>
 
 
-
+</ul>
 
 
 <h1>Videos I've made</h1>
@@ -98,9 +105,7 @@ Here are some ideas to get you started:
 
 <li><p><a href="https://ici.radio-canada.ca/nouvelle/1285229/habitat-67-inspiration-construction-appartements-asie-ville-architecture">Habitat 67, modèle d’une nouvelle génération d'appartements en Asie </a> French translation by Radio-Canada of a CBC News feature</p></li>
 
-	<li><p><a href="http://www.thestar.com/news/privacy-blog/2015/05/what-happens-when-you-request-your-csis-file.html" target="blank">I asked CSIS for its file on me. Here's what I got</a> — The last part of a series for the Star where I used the Privacy Act to request documents about myself. — The Toronto Star</p>
-		
-	</li>
+	<li><p><a href="http://www.thestar.com/news/privacy-blog/2015/05/what-happens-when-you-request-your-csis-file.html" target="blank">I asked CSIS for its file on me. Here's what I got</a> — The last part of a series for the Star where I used the Privacy Act to request documents about myself. — The Toronto Star</p></li>
 
 
 <li><p><a href="https://www.cbc.ca/news/canada/montreal/esports-program-launches-at-montreal-high-school-for-aspiring-pro-gamers-1.4987114">Esports program launches at Montreal high school for aspiring pro-gamers</a> — CBC News</p></li>
@@ -136,9 +141,6 @@ Here are some ideas to get you started:
 
 <li><p><a href="https://www.thestar.com/business/2015/01/14/auto_lenders_quietly_install_a_digital_repoman.html" target="blank">Auto lenders quietly install a digital repo-man </a> — The Toronto Star</p></li>
 
-
-
-	
 
 
 </ul>

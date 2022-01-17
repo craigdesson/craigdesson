@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 <p>My name is Craig Desson. I'm a journalist and documentary maker at CBC. I've also worked at The Toronto Star, TVO and Journalists for Human Rights. My work has won awards at The Third Coast International Audio Festival and The New York Radio Festival. I was a 2017 Arthur F. Burns journalism fellow.</p>
 
 
-Some audio work
+<h1>Some audio work</h1>
 
 	
 
@@ -36,7 +36,7 @@ Some audio work
 <li><p><a href="http://www.cbc.ca/radio/docproject/we-didn-t-think-america-would-be-like-this-why-somalis-facing-deportation-are-turning-to-canada-1.4146750" target="blank"> 'We didn't think America would be like this'</a>  Why Somalis facing deportation are turning to Canada </a> Documentary for The Doc Project about ICE deportations in Minneapolis.</p></li>
 
 
-<p><a href="http://www.cbc.ca/radio/thesundayedition/elegy-for-a-tree-putin-s-russia-the-visit-utopia-on-the-prairie-john-boyne-1.3001893/utopia-on-the-prairie-1.3001935" target="blank">Utopia on the prairie</a> A radio documentary for the Sunday Edition about underemployed Ontarians who move to a ghost town in Saskatchewan.</p></li>
+<li><p><a href="http://www.cbc.ca/radio/thesundayedition/elegy-for-a-tree-putin-s-russia-the-visit-utopia-on-the-prairie-john-boyne-1.3001893/utopia-on-the-prairie-1.3001935" target="blank">Utopia on the prairie</a> A radio documentary for the Sunday Edition about underemployed Ontarians who move to a ghost town in Saskatchewan.</p></li>
 
 	
 
@@ -50,7 +50,7 @@ Some audio work
 
 
 
-Videos I've made
+<h1>Videos I've made</h1>
 
 <ul>
 
@@ -86,7 +86,7 @@ Videos I've made
 
 </ul>
 
-Reporting
+<h1>Articles</h1>
 <ul>
 
 <li><p><a href="https://www.cbc.ca/news/canada/montreal/montreal-gaming-house-1.5129790">Go inside the Montreal house where gamers play, practise and live</a> — CBC News</p></li>
